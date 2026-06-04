@@ -18,7 +18,7 @@ license = {text = "Apache-2.0"}
 dependencies = [
     "jupyter>=1.0.0",
     "matplotlib>=3.10.8",
-    "mlab-iqb @ git+https://github.com/jduckles/iqb.git#subdirectory=library",
+    "mlab-iqb @ git+https://github.com/m-lab/iqb.git#subdirectory=library",
     "numpy>=1.26.0",
     "pandas>=2.0.0",
     "plotly>=6.7.0",
